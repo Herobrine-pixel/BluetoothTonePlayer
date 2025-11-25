@@ -4,6 +4,9 @@
 
 Important: HC-05 uses Bluetooth SPP (serial profile). This library does **not** provide A2DP audio streaming. It interprets serial commands and plays tones/melodies using the Arduino `tone()` API.
 
+## Important Correction
+### Use 1k ohm rsistor between the RXD of HC-05 and Arduino D3 pin. I wiring.png its written 1.00 ohm resistor not 1k ohm resistor.
+
 ## What you get
 - Library source (src/)
 - Arduino example (examples/BluetoothToneDemo)
