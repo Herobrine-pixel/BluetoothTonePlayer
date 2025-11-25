@@ -1,0 +1,4 @@
+*.pio
+*.zip
+build/
+.DS_Store
