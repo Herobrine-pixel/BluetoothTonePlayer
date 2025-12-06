@@ -1,6 +1,6 @@
 {
   "name": "BluetoothTonePlayer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bluetooth-controlled tone & melody player for Arduino using HC-05 (A2DP NOT supported).",
   "keywords": [
     "bluetooth",
